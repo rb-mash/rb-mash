@@ -30,8 +30,7 @@ I'm looking to collaborate on exciting projects that involve:
 I'm always open to new ideas, projects, and connections. Feel free to reach out to me via:
 
 - 📧 [Email](faraimasho@gmail.com)
-- 💬 [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- 🐦 [Twitter](https://twitter.com/your-twitter-handle)
+- 💬 [LinkedIn]((https://www.linkedin.com/in/farai-mashonganyika-206234237/))
 
 ## Fun Facts
 
