@@ -11,8 +11,9 @@
 I'm an **Electronics and Computer Engineering** student at **UNAM, JEDS Campus**, passionate about blending technology and creativity. I'm an energetic yet thoughtful individual who moves between logic and creativity with ease, building solutions that matter.
 
 ### 🎯 Core Domains
+- **✝️ GOD FIRST** 
 - **💻 Technology** - Full-stack development, IoT systems, and embedded solutions
-- **🎵 Music** - Guitarist with a love for rock and jazz
+- **🎵 Music** - Producer & Musical Artist(Rb Mash)
 - **🚀 Entrepreneurship** - Building innovative solutions for real-world problems
 - **🔬 Research** - Exploring cutting-edge technologies and their applications
 
@@ -53,16 +54,15 @@ I'm an **Electronics and Computer Engineering** student at **UNAM, JEDS Campus**
 ## 🎵 Beyond Code
 
 When I'm not coding, you'll find me:
-- 🎸 **Jamming on my guitar** - Rock and jazz are my go-to genres
+- 🎸 **Producing Music** - Trap & Hip-Hop are my go-to genres (but I like alot of genres)
 - 🎮 **Gaming** - Always up for a challenge
-- 🍣 **Enjoying sushi** - My ultimate comfort food
 - 🎬 **Watching anime** - Love exploring different worlds and stories
 
 ---
 
 ## 🌍 Vision
 
-> *"Building Systems for Africa and Beyond"*
+> *"Building Systems for Change!"*
 
 I'm passionate about creating innovative solutions that address real-world challenges, with a focus on sustainable technology that can make a difference in Africa and globally.
 
